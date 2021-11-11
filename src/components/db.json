@@ -1,0 +1,23 @@
+{   
+    "results":[
+
+    {
+    "name":"rahul",
+    "email":"rahul@gmail.com",
+    "phonenumber":"123456789",
+    "role":"devloper"
+    },
+    
+        {
+            "name":"rajesh",
+            "email":"rajesh@gmail.com",
+            "phonenumber":"123456789",
+            "role":"devloper"
+           
+        }
+        
+    ]
+    
+}    
+    
+     
